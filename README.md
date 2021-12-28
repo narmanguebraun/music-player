@@ -1,4 +1,7 @@
 # music-player
+
+![Music Player Illustration](https://cdn.dribbble.com/users/3932559/screenshots/15868528/media/536787e2087950dacf355a3e80bdc098.jpg "Music Player Illustration")
+
 Music Player.  
 
 Technologies: HTML, CSS, JavaScript
