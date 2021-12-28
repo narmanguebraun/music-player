@@ -1,5 +1,5 @@
 # music-player
-iPod style Music Player.  
+Music Player.  
 
 Technologies: HTML, CSS, JavaScript
 
